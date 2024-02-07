@@ -1,7 +1,7 @@
 # FineTuneLib
 A library for seamless fintuning of LLMs
 
-## REQUIREMENTS
+## How to Install
  ```bash
   git clone https://github.com/OpenAccess-AI-Collective/axolotl
   cd axolotl
@@ -11,7 +11,7 @@ A library for seamless fintuning of LLMs
   pip3 install -U --ignore-installed requests Pillow psutil scipy
   ```
 
-## FINETUNE THE MODEL
+## How to Finetune
 
 Run
 ```bash
